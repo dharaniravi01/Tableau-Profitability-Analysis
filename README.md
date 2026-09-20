@@ -21,12 +21,16 @@ Five Tableau dashboards were developed to identify the key drivers of losses and
 
 ### 1. Overall Profitability Overview
 
+![Overall Profitability Overview](Profitability%20Overview.png)
+
 Analysed sales and profitability across markets, customer segments and product categories.
 
 Key finding:
 - Nigeria recorded a **-148.57% profit margin**, compared with positive margins in markets such as China and India.
 
 ### 2. Profitability Analysis – Nigeria
+
+![Profitability Overview in Nigeria](Profitability%20Overview%20in%20Nigeria.png)
 
 Investigated profitability across Nigerian states, customer segments and product sub-categories.
 
@@ -37,6 +41,8 @@ Key findings:
 
 ### 3. Sales & Discount Analysis
 
+![Sales and Discounts in Nigeria](Sales%20%26%20Discounts%20in%20Nigeria.png)
+
 Analysed the relationship between product sales and discounting in Nigeria.
 
 Key findings:
@@ -46,6 +52,8 @@ Key findings:
 
 ### 4. Shipping Analysis
 
+![Shipping Analysis for Nigeria](Shipping%20Analysis%20for%20Nigeria.png)
+
 Evaluated shipping costs, shipping methods and customer order priorities.
 
 Key findings:
@@ -54,6 +62,8 @@ Key findings:
 - Most orders were classified as Medium priority, suggesting that customers generally did not require premium delivery.
 
 ### 5. Discount Scenario Analysis
+
+![Adjusted Discount Analysis for Nigeria](Adjusted%20Discount%20Analysis%20for%20Nigeria.png)
 
 Evaluated the potential financial impact of reducing Nigeria's discount rate from **70% to 50%**.
 
